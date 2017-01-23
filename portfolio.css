@@ -1,0 +1,41 @@
+body {
+  min-height: 100vh;
+  max-width: 800px;
+  margin: 0 auto;
+  display: flex;
+  justify-content:space-between;
+  align-items:center;
+  flex-direction: column;
+  text-align: center;
+  background: url("http://i.imgur.com/HcNxyMy.jpg");
+  background-position: center;
+  background-size: cover;
+}
+
+main{
+  background:rgba(0, 0, 0, 0.10);
+  flex-grow: 2;
+}
+
+a {
+  text-decoration: none;
+  padding: 0px 16px 0px 16px;
+  color: white;
+}
+header, footer {
+  width: 100%;
+  height: 30px;
+  text-align: center;
+  line-height: 30px;
+  margin: 0;
+  background: rgba(0, 0, 0, 0.5);
+  color: white;
+}
+
+p{
+  color: silver;
+}
+
+h1{
+  color: silver;
+}
