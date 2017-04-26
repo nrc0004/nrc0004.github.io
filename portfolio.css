@@ -82,14 +82,14 @@
 }
 
   a.right.carousel-control {
-    height: 770px !important;
+    height: 720px !important;
     position: absolute;
     top: 50px;
     width: 100px;
   }
 
   a.left.carousel-control {
-    height: 770px !important;
+    height: 720px !important;
     position: absolute;
     top: 50px;
     left:0;
@@ -134,7 +134,7 @@
 }
 
 .about{
-  margin-top: 30px;
+  margin-top: 70px;
   margin-bottom: 20px;
   text-align: center;
   width: 70%;
@@ -217,6 +217,7 @@ p.lead{
 .navbar {
     margin-bottom: 0 !important;
     font-family: 'Rock Salt', cursive;
+
 }
 
 .rock {
